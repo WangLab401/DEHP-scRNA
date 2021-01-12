@@ -234,9 +234,7 @@ plot_genes_branched_heatmap(subGerm_cds[row.names(subset(BEAM_res,qval < 1e-4)),
 
 
 
-
-
-################=================Gene differentiation and expression analysis
+################=================Gene differential expression analysis
 
 #####load the dataset 
 library("Seurat")
